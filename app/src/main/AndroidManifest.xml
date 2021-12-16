@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BatailleNavale">
         <activity
+            android:theme="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen"
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
